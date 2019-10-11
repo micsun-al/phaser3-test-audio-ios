@@ -16,9 +16,7 @@
   ],
   "author": "samme",
   "license": "ISC",
-  "dependencies": {
-    "phaser": "^3.19.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "cssnano": "^4.1.10",
     "eslint": "^5.16.0",
@@ -27,6 +25,7 @@
     "eslint-plugin-import": "^2.17.3",
     "eslint-plugin-node": "^8.0.1",
     "eslint-plugin-promise": "^4.1.1",
-    "eslint-plugin-standard": "^4.0.0"
+    "eslint-plugin-standard": "^4.0.0",
+    "phaser": "^3.20.0"
   }
 }

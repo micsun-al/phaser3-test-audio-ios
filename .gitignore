@@ -1,2 +1,11 @@
 dist/
 *.lock
+
+.cache/
+/.cache
+node_modules/
+
+_SOURCE_/
+_OUTPUT_/
+/package-lock.json
+/dist/
